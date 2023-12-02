@@ -11,14 +11,15 @@ It'll also tell the user how much they can spend for the rest of the month to st
 
 It also tells us the spending trends and the Insights about the budget.
 
-## 🎯 App Requirements
+## 🎯 App Requirements 
 
-1. Ask the user to add an expense (name, category, amount)
-2. Save expense entries to a .csv file.
-3. Read the file to summarise the expense totals for that month
-4. Show the user remaining budget that they can spend for the rest of the month (to stay in budget).
-5. Plots a graph between Categories and amount spent the spending trends.
-6. It also provides the insights
+1. requires python
+2. Ask the user to add an expense (name, category, amount)
+3. Save expense entries to a .csv file.
+4. Read the file to summarise the expense totals for that month
+5. Show the user remaining budget that they can spend for the rest of the month (to stay in budget).
+6. Plots a graph between Categories and amount spent the spending trends.
+7. It also provides the insights
 
 ## 💡 Recommended Project Structure
 
